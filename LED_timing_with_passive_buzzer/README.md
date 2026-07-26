@@ -1,8 +1,8 @@
 
-## Project: LED Pulse & Fading Control (PWM)
+## Project: LED Timing with passive buzzer
 =====================================================
 
-An Arduino project demonstrating precise timing logic using delay() and tone() with a passive buzzer and dual LED state toggling. Because Arduino executes code sequentially and delay() freezes the execution state, splitting the delay allows short audio feedback without affecting overall display timing:
+This is An Arduino project demonstrating precise timing logic using delay() and tone() with a passive buzzer and dual LED state toggling. Because Arduino executes code sequentially and delay() freezes the execution state, splitting the delay allows short audio feedback without affecting overall display timing:
 ===========================================================
 ## Components Used
 - 📷 Circuit Setup🛠️ Components Used
