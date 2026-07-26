@@ -20,7 +20,7 @@
 
 
 ## Circuit Photo
-![Circuit Setup](sos.JPEG)
+![Circuit Setup](sos.jpeg)
 
 
 ## Components Used
