@@ -3,7 +3,7 @@
 An Arduino project featuring traffic light sequencing.
 
 ## Circuit Photo
-![Circuit Setup](led_with_buttons.png)
+![Circuit Setup](LED_With_buttons.png)
 
 ## Components Used
 - 1x Arduino Uno R3
