@@ -32,6 +32,7 @@
 
 ## Circuit Photo
 ![Circuit Setup](buzzer_strobelight.png)
+![Circuit Setup](bargraph_led.jpeg)
 
 ## Components Used
 - 1x Arduino Uno R3
