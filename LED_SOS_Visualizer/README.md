@@ -1,7 +1,6 @@
 # Multi-LED Morse Code SOS Visualizer
 
-#
-  /*
+
  ===============================================================================
   Project Name: Multi-LED Morse Code SOS Visualizer
   Description:  This program blinks three LEDs (Red, Yellow, and Green) 
@@ -13,10 +12,7 @@
     - Dash (-)   = 600ms (Exactly 3x the duration of a dot)
     - Part Gap   = 200ms (Silence between blinks within the same letter)
     - Letter Gap = 400ms (Silence between S, O, and S)
- ===============================================================================
-*/
-
-*/
+ ================================================================================
 
 
 ## Circuit Photo
